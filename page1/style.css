@@ -19,12 +19,7 @@ body {
 .container {
   margin: 0 auto;
   width: 1920px;
-  /* height: 1142px; */
-  background: url(../media/images/Rectangle\ 1\ \(1\).png);
-  background-repeat: no-repeat;
-  background-size: cover;
-  /* background-size: 170%; */
-  /* background-position-x: center; */
+ 
 }
 
 
