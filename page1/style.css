@@ -339,14 +339,15 @@ nav:hover {
 }
 
 /* hEADER END */
-.main_box {
+/* .main_box {
     width: 100vw;
     display: flex;
     flex-direction: column;
     align-items: center;
-  }
+  } */
   
   .clients {
+    margin:  0 auto;
     width: 1200px;
     height: 180px;
     display: flex;
@@ -386,15 +387,16 @@ nav:hover {
   
   /* main end */
   /* section start */
-  .main_section {
+  /* .main_section {
     width: 100vw;
     display: flex;
     flex-direction: column;
     align-items: center;
     margin-top: 135px;
-  }
+  } */
   
   .first_box_section {
+    margin: 0 auto;
     width: 1200px;
     height: 1304px;
     left: 360px;
