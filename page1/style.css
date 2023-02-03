@@ -255,6 +255,7 @@ nav:hover {
     align-items: center;
     justify-content: center;
     position: relative;
+    border-radius: 20px 0px 0px 20px;
     left: 10px;
 }
 
@@ -270,6 +271,7 @@ nav:hover {
     justify-content: center;
     position: relative;
     right: 10px;
+    border-radius: 0px 0px 20px 0px;
 }
 
 .hh {
@@ -332,6 +334,7 @@ nav:hover {
     width: 530px;
     height: 400px;
     background: rgba(44, 44, 44, 0.8);
+    border-radius: 0px 20px 0px 0px;
     backdrop-filter: blur(2.5px);
 }
 
