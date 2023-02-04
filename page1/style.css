@@ -357,7 +357,7 @@ nav:hover {
 }
 
 .left_arrow {
-  background-image: url(./../media/main1-img/Arrow\ 2.svg);
+  background-image: url(../media/main1-img/Arrow\ 2.svg);
   position: absolute;
   width: 100%;
   height: 400px;
@@ -368,7 +368,7 @@ nav:hover {
 }
 
 .right_arrow {
-  background-image: url(./../media/main1-img/Arrow\ 2.svg);
+  background-image: url(../media/main1-img/Arrow\ 2.svg);
   position: absolute;
   width: 100%;
   height: 400px;
