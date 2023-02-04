@@ -253,3 +253,150 @@ nav:hover {
   background: #da9d0c;
 }
 /* header end */
+
+/*  PAGE-2-BUNYOD-START */
+
+.dizel_sort-main{
+  width: 1084px;
+  margin: 0 auto;
+  gap: 30px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.dizel_sort-box{
+  background: #FFFFFF;
+  border-radius: 40px;
+  border: 1px dashed #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sort_img{
+  width: 350px;
+  height: 336px;
+}
+.sort_box-text{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+}
+.sort_title{
+  width: 580px;
+  height: 39px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 39px;
+  text-align: center;
+  color: #000000;
+}
+.sort_text{
+  width: 580px;
+  height: 96px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+  color: #5B5B5B;
+}
+.sort_button{
+  width: 350px;
+  height: 50px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+  color: #DBA833;
+  border: 2px solid #DBA833;
+  border-radius: 5px;
+  padding: 13px 128.5px;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* support-star */
+  
+.support {
+  max-width: 1200px;
+  width: 100%;
+  margin: 40px auto;
+}
+
+.top_support {
+
+}
+
+.support_title {
+  font-family: 'Rubik', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 57px;
+  text-align: center;
+  color: #DBA833;
+}
+
+.support_text {
+  margin-top: 5px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  text-align: center;
+  color: #5B5B5B;
+}
+
+.under_support {
+  margin-top: 39px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 43px;
+}
+
+.support_img {
+  width: 247px;
+  height: 76px;
+
+}
+/* support-end */
+/* geography-start */
+
+.geog_map {
+  width: 1394px;
+  height: 759px;
+  border: 1px solid #000;
+  border-radius: 55%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.map_1{
+  display: none;
+}
+.geog_title {
+  height: 57px;
+  font-family: 'Rubik', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 57px;
+  text-align: center;
+  color: #000000;
+}
+.map_img {
+  width: 1200px;
+  height: 550px;
+}
+/* geography-end */
+
+
+/*  PAGE-2-BUNYOD-END */
