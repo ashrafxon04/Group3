@@ -263,6 +263,7 @@ nav:hover {
   display: flex;
   justify-content: center;
   flex-direction: column;
+  padding-top: 40px;
 }
 .dizel_sort-box{
   background: #FFFFFF;
