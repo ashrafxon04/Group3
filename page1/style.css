@@ -1002,6 +1002,8 @@ nav:hover {
   margin: 0 auto;
   width: 1920px;
   height: 634px;
-  background-image: url(../media/footerimages/mediaMap.png);
+  background-image: url(../media/footerimages/mapps.png);
+ background-size: contain;
+ background-repeat: no-repeat;
 }
 /* Footer 3 end Map */
