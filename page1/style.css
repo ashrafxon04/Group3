@@ -4,7 +4,7 @@
 body {
     font-family: 'Inter', sans-serif;
 }
-.rubik {
+.rubik{
     font-family: 'Rubik', sans-serif;
 }
 
@@ -15,8 +15,9 @@ header {
   height: 750px;
   background-image: url(../media/page2.header.images/fura2.png);
   background-repeat: no-repeat;
-  background-size: contain
-* {
+  background-size: contain;
+}
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -29,6 +30,7 @@ header {
     background-image: url(../media/header.Images/Rectangle\ 1\ \(2\).png);
     background-repeat: no-repeat;
     background-size: contain;
+}
 
 .topShadow {
   width: 1920px;
@@ -256,7 +258,7 @@ nav:hover {
   transform: scale(0.96);
   transition: all 1s;
   background: #da9d0c;
-=======
+
 }
 
 .shadowHeader {
@@ -599,7 +601,7 @@ nav:hover {
     position: relative;
     bottom: 100px;
     /* top: 300px; */
-}
+
 
 /* next */
 
@@ -784,7 +786,7 @@ nav:hover {
   
   .first_box_section {
     margin: 0 auto;
-=======
+  }
   .main_section {
     width: 100vw;
     display: flex;
