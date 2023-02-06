@@ -572,3 +572,232 @@ nav:hover {
   margin-top: 10px;
 }
 /* map-end */
+/* .main_box {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  } */
+
+  .clients {
+    margin: 0 auto;
+    width: 1200px;
+    height: 180px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 81px;
+  }
+  
+  .clients_title {
+    width: 220px;
+    height: 57px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 57px;
+    text-align: center;
+    color: #DBA833;
+  }
+  
+  .clients_paragraph {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #5B5B5B;
+  }
+  
+  .clients_images {
+    display: flex;
+    gap: 43px;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  /* main end */
+  /* section start */
+  /* .main_section {
+      width: 100vw;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-top: 135px;
+    } */
+  
+  .first_box_section {
+    margin: 0 auto;
+    width: 1200px;
+    left: 360px;
+    top: 4589px;
+    background: #F8F8F8;
+    border: 3px dashed #DBA833;
+    border-radius: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .first_box_section_title {
+    width: 196px;
+    height: 57px;
+    left: 862px;
+    top: 4614px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 57px;
+    text-align: center;
+    color: #000000;
+    margin-top: 25px;
+    margin-bottom: 20px;
+  }
+  
+  .first_section {
+    width: 990px;
+    height: 360px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    justify-content: center;
+    margin-bottom: 30px;
+  }
+  
+  .images_both {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+  }
+  
+  .inside_extra_title {
+    width: 450px;
+    height: 38px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 38px;
+    color: #DBA833;
+  }
+  
+  .lorem {
+    width: 610px;
+    height: 140px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #5B5B5B;
+  }
+  
+  .after_section_box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    margin-top: 80px;
+    margin-bottom: 50px;
+  }
+  
+  .after_section_title {
+    width: 674px;
+    height: 57px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 57px;
+    text-align: center;
+  }
+  
+  .cameras {
+    display: flex;
+    gap: 40px;
+  }
+  
+  .first_camera {
+    width: 310px;
+    height: 430px;
+    border: 1px #000000 solid;
+    border-radius: 3%;
+  }
+  
+  .box_for_image_camera {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px black solid;
+    padding: 17px 0 17px 0;
+    background: #F8F8F8;
+    border-top-left-radius: 6%;
+    border-top-right-radius: 6%;
+  }
+  
+  .news_title {
+    width: 270px;
+    height: 24px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+    margin-top: 20px;
+  }
+  
+  .text_text {
+    width: 270px;
+    height: 95px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #5B5B5B;
+  }
+  
+  .more_button {
+    width: 270px;
+    height: 39px;
+    background-color: white;
+    border: 1px solid #DBA833;
+    border-radius: 5px;
+    margin-top: 37px;
+    color: #DBA833;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+  }
+  
+  .title_text_button {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .last_button {
+    width: 350px;
+    height: 50px;
+    background-color: white;
+    border: 2px solid #DBA833;
+    border-radius: 5px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #DBA833;
+  }
+  
+  /* section end */
