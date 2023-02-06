@@ -1003,7 +1003,230 @@ nav:hover {
   width: 1920px;
   height: 634px;
   background-image: url(../media/footerimages/mapps.png);
- background-size: contain;
- background-repeat: no-repeat;
+  background-size: contain;
+  background-repeat: no-repeat;
 }
+
 /* Footer 3 end Map */
+/* faoter end start */
+.footerEnd {
+  margin: 0 auto;
+  width: 1920px;
+  height: 265px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.endWrapper {
+  margin: 0 auto;
+  width: 1200px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+}
+
+.box01 {
+  width: 100px;
+  height: 94px;
+  background-image: url(../media/header.Images/Neftekor.png);
+}
+
+.box02 {
+  width: 400px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 15px;
+  color: #DBA833;
+  margin-bottom: 13px;
+  margin-left: 20px;
+}
+
+.box02 p {
+  margin-top: 13px;
+}
+
+.box03 {
+  width: 174px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  color: #5B5B5B;
+  margin-left: 86px;
+}
+
+.box03 p {
+  margin-top: 10px;
+}
+
+.box04 {
+  width: 174;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  color: #5B5B5B;
+  margin-left: 50px;
+}
+
+.box04 p {
+  margin-top: 10px;
+}
+
+.footerBox05 {
+  width: 175px;
+  height: 86px;
+  border: 2px solid #B6B6B6;
+  border-radius: 10px;
+  margin-left: 37px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.footerfoto {
+  background-image: url(../media/footerimages/footerVector.png);
+  width: 31.25px;
+  height: 31.5px;
+}
+
+.fotoTitle {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+  color: #B6B6B6;
+
+}
+
+.endWrapper2 {
+  margin: 0 auto;
+  width: 1200px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  border-top: 1px  dashed #B6B6B6;
+  margin-top: 30px;
+}
+
+.enddd1 {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #5B5B5B;
+}
+
+.enddd2 {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #5B5B5B;
+  margin-left: 30px;
+}
+
+.enddd3 {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  color: #000000;
+  margin-left: 326px;
+}
+
+.enddd4 {
+  display: flex;
+}
+
+.footersocialmedia1 {
+  width: 33px;
+  height: 33px;
+  border-radius: 5px;
+  background-color: #DBA833;
+  margin-left: 65px;
+  border: 2px solid #000000;
+  display: flex;
+  align-items: center;
+}
+
+.icoon1 {
+  width: 26px;
+  height: 26px;
+  background-image: url(../media/footerimages/icon01.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-left: 1px;
+}
+
+.footersocialmedia2 {
+  width: 33px;
+  height: 33px;
+  border-radius: 5px;
+  background-color: #DBA833;
+  margin-left: 15px;
+  border: 2px solid #000000;
+  display: flex;
+  align-items: center;
+}
+.icoon2 {
+  width: 26px;
+  height: 26px;
+  margin-left: 1px;
+  background-image: url(../media/footerimages/icon2.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.footersocialmedia3 {
+  width: 33px;
+  height: 33px;
+  border-radius: 5px;
+  background-color: #DBA833;
+  margin-left: 15px;
+  border: 2px solid #000000;
+  display: flex;
+  align-items: center;
+}
+
+.icoon3 {
+  width: 26px;
+  height: 26px;
+  margin-left: 1px;
+  background-image: url(../media/footerimages/icon3.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.footersocialmedia4 {
+  width: 33px;
+  height: 33px;
+  border-radius: 5px;
+  background-color: #DBA833;
+  margin-left: 15px;
+  border: 2px solid #000000;
+  display: flex;
+  align-items: center;
+}
+.icoon4 {
+  width: 26px;
+  height: 26px;
+  margin-left: 1px;
+  background-image: url(../media/footerimages/icon4.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.footerEnd1{
+  display: none;
+}
