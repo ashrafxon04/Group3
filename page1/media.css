@@ -182,12 +182,203 @@
 
   /* HEADER END PAGE1*/
 
-  /* Foter start */
+
+  /* MAIN-START-1 */
+  /* @media (max-width: 360px) { */
+    
+    .neft {
+      max-width: 360px;
+      display: flex;
+      justify-content: space-between;
+      flex-direction: column;
+      align-items: center;
+      position: relative;
+      bottom: 120px;
+    }
+    
+    .main_neft {
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+    
+    
+    
+    .main_neft-dashed {
+      width: 340px;
+      padding: 20px;
+    }
+    
+    .neft_title {
+      width: 299px;
+      height: 76px;
+      margin-bottom: 5px;
+      font-style: normal;
+      font-weight: 700;
+      font-size: 32px;
+      line-height: 38px;
+      text-align: center;
+      color: #000000;
+    }
+    
+    .neft_text {
+      width: 292px;
+      height: 120px;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 20px;
+      line-height: 24px;
+      text-align: center;
+      color: #5B5B5B;
+    }
+    
+    .neft_box-main {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      gap: 25px;
+    }
+    
+    .neft_box {
+      width: 300px;
+      height: 274px;
+      display: flex;
+      justify-content: center;
+    }
+    .neft_box neft_box-img{
+      padding-left: 20px;
+    }
+    .neft_box-img {
+      width: 300px;
+      height: 200px;
+    }
+    .neft_box-title {
+      width: 263px;
+      height: 24px;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 20px;
+      line-height: 24px;
+      text-align: center;
+      color: #000000;
+    }
+    .neft_box-text {
+      width: 262px;
+      height: 44px;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 140%;
+      text-align: center;
+      color: #5B5B5B;
+    }
+    .neft_button {
+      width: 282px;
+      height: 50px;
+      font-style: normal;
+      font-weight: 700;
+      font-size: 18px;
+      line-height: 22px;
+      text-align: center;
+      color: #DBA833;
+    }
+    .right_arrow {
+      display: none;
+    }
+  /* } */
+  /* support-start */
+
+  .support {
+    width: 339px;
+    position: relative;
+    bottom: 150px;
+}
+
+
+
+.support_title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 32px;
+    text-align: center;
+    color: #DBA833;
+}
+
+.support_text {
+    width: 340px;
+    height: 38px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #5B5B5B;
+}
+
+.under_support {
+    width: 340px;
+} 
+
+.support_img-1{
+  display: none;
+}
+
+.support_img {
+    width: 171px;
+    height: 71px;
+}
+  /* support-end */
+  /* geog-star */
+
+  .geog_map {
+    display: none;
+    /* justify-content: center;
+    align-items: center;
+    flex-direction:column;
+    width: 620px;
+    height: 337px;
+    padding: 34px 0; */
+  }
+  .map_1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: #F8F8F8;
+    border-radius: 30%;
+    padding: 34px 0;
+    position: relative;
+    bottom: 150px;
+  }
+
+  .geog_title {
+    /* width: 284px;
+    height: 32px; */
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 32px;
+    text-align: center;
+    color: #000000;
+    
+  }
+  .map_img {
+    width: 340px;
+    height: 150px;
+  }
+  /* geog-end */
+  /* MAIN-END-1 */
+
+
+  /* FOOTER START */
   .footer1Bg {
     width: 360px;
     height: 438px;
     position: relative;
-    bottom: 138px;
+    bottom: 100px;
     background-image: url(../media/footerImage/mediafurae.png);
   }
 
